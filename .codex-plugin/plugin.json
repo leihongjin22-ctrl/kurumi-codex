@@ -1,0 +1,11 @@
+{
+  "name": "kurumi-skin-tools",
+  "version": "0.9.0",
+  "description": "Install and configure the Kurumi Codex skin client and repair compatibility after Codex updates. The complete themed UI runs in the companion client.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Kurumi Codex 皮肤套件",
+    "shortDescription": "配置皮肤客户端、维护更新兼容",
+    "composerIcon": "./assets/plugin-icon.svg"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "files": [
+    "package.json", "index.html", "styles.css", "main.cjs", "preload.cjs", "app.js", "client.js",
+    "app-server.cjs", "approvals-ui.js", "attachment-input.cjs", "attachments.cjs", "browser-manager.cjs",
+    "browser-ui.js", "browser-url.cjs", "client-config.cjs", "delivery-state.cjs", "diagnostics.cjs",
+    "extract-attachment.py", "feedback-links.js", "html-preview.cjs", "local-file.cjs", "local-video.cjs", "distribution.cjs",
+    "preferences.cjs", "questions-ui.js", "quota-ui.js", "quota.cjs", "remote-control.cjs", "remote-history.js",
+    "remote-threads.cjs", "remote-ui.js", "scheduled-tasks.cjs", "scheduled-ui.js", "session-policy.cjs",
+    "session-recovery.cjs", "startup-log.cjs", "thread-sources.cjs", "timing.js", "update-guard.cjs", "update-ui.js",
+    "workbench-ui.js", "workspace-tools.cjs", "launch.cmd", "launch-client.ps1", "install-shortcuts.ps1",
+    "setup.cmd", "setup.ps1", "runtime.json", "release-manifest.json", "REPAIR.md", "LICENSE",
+    "THIRD_PARTY_NOTICES.md", "ASSET-NOTICE.md", "requirements-documents.txt", ".gitignore", "README.en.md"
+  ],
+  "directories": ["assets", "vendor", "skills", ".codex-plugin", ".agents", "scripts", "tests", "themes", "docs-public", ".github"]
+}
